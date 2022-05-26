@@ -29,11 +29,12 @@ h1 {
 }
 
 .intro_bg{
-    background-image: url("https://cdn.seminarbiz.kr/news/photo/202204/15758_20558_1620.png");
+    background-image: url("https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdlt4cM%2FbtqIAP9ChHG%2FM9QfEacTAxBmpfzqHAivm1%2Fimg.jpg");
     width: 100%;
     height: 718px;
-    background-position: center 100px;
-    /* background-repeat: no-repeat; */
+    margin: auto;
+    background-position: top;
+    background-repeat: no-repeat;
 }
 
 .header{
